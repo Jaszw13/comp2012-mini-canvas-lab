@@ -1,4 +1,4 @@
-#mini-canvas-lab
+# mini-canvas-lab
 
 ## 🎯 Core Features
 - **User Management**: Track user to-do lists, add/complete assignments.
